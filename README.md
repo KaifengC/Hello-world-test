@@ -1,2 +1,7 @@
 # Hello-world-test
-My First Github Test。
+
+This is a sample test for using *Github*.
+
+Created by SoporKiss.
+
+Language: C.
